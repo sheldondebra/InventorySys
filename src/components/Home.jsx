@@ -22,7 +22,7 @@ const Home = () => {
         <div className="flex justify-center items-center gap-4">
           <BsSearch /> <GrNotification />
           <FaUserCircle />
-          <p>Sheldon</p>
+          <p>User</p>
           <RiArrowDownSFill />
         </div>
       </nav>
