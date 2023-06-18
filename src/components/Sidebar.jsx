@@ -18,7 +18,7 @@ const Sidebar = () => {
         <AiOutlineStock size="22" />
         <NavLink to="/stocks">Stocks</NavLink>
       </div>
-      <div className="flex items-center gap-1 p-4 bg-red-500">
+      <div className="flex items-center gap-1 p-4">
         <BsFillBasketFill size="22" />
         <NavLink to="/product">Product</NavLink>
       </div>
